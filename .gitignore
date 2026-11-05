@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+a.out
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
